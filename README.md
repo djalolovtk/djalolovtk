@@ -1,3 +1,4 @@
+```
 👋 Hi, I'm @djalolovtk
 👀 I am interested in a programming language
 🌱 I am currently learning Bash and python
