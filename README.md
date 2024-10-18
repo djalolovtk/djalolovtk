@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я djalolovtk</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из Узбекистана</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djalolovtk&label=Profile%20views&color=0e75b6&style=flat" alt="djalolovtk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djalolovtk&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djalolovtk"</a> </p>
 
