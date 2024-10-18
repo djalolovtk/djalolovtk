@@ -15,9 +15,6 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@saveeditoronlinecom?si=gka6-sqz19yw6kvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@saveeditoronlinecom?si=gka6-sqz19yw6kvc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Поддержка:</h3>
-<p> <a href="https://www.buymeacoffee.com/buymeacoffee.com/tojik_proof_93"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/tojik_proof_93" /></a> <a href="https://ko-fi.com/buymeacoffee.com/tojik_proof_93"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buymeacoffee.com/tojik_proof_93" /></a> </p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djalolovtk&show_icons=true&locale=en&layout=compact" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=djalolovtk&show_icons=true&locale=en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djalolovtk&" /></p>
