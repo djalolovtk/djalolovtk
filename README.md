@@ -13,4 +13,6 @@
 <a href="https://www.twitch.tv/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://twitch.tv/tojik_proof_93" height="30" width="40" /></a>
 </a>
 <a href="https://vk.com/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="https://vk.com/tojik_proof_93" height="30" width="40" /></a>
+</a>
+<a href="https://t.me/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="https://t.me/tojik_proof_93" height="30" width="40" /></a>
 </p>
