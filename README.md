@@ -12,3 +12,5 @@
 </p>
 <a href="https://www.twitch.tv/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://twitch.tv/tojik_proof_93" height="30" width="40" /></a>
 </p>
+<a href="https://www.donationalerts.com/r/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/donationalerts.svg" alt="https://www.donationalerts.com/r/tojik_proof_93" height="30" width="40" /></a>
+</p>
