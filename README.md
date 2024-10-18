@@ -10,3 +10,5 @@
 <a href="https://instagram.com/tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tojik_proof_93" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@saveeditoronlinecom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@saveeditoronlinecom?si=gka6-sqz19yw6kvc" height="30" width="40" /></a>
 </p>
+<a href="https://www.tiktok.com/@tojik_proof_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="https://tiktok.com/@tojik_proof_93" height="30" width="40" /></a>
+</p>
