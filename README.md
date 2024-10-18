@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djalolovtk&label=Profile%20views&color=0e75b6&style=flat" alt="djalolovtk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djalolovtk" alt="djalolovtk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djalolovtk"</a> </p>
 
 <p align="left"> <a href="https://twitter.com/tojik_proof_93" target="blank"><img src="https://img.shields.io/twitter/follow/tojik_proof_93?logo=twitter&style=for-the-badge" alt="tojik_proof_93" /></a> </p>
 
